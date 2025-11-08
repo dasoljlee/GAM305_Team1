@@ -48,7 +48,8 @@ Unknown <!--- Jessi-->
 Jessi: Depending on the our theme, I think it would be fun to add a jump pad, teleporter, virus- tracking capability and virus reproduction. Please let me know what you all think.
 
 ## Schedule
-Jessi: I wrote this in the assigning and reporting tasks section, but I can create a traceability matrix and test plan as well as an excel sheet for schedules. Ill link it here, the discord and email.
+[Schedule Link](https://snhu-my.sharepoint.com/:x:/g/personal/dasol_lee_snhu_edu/EcpXnesIOY9IlKhKPIUpziwBNo3KOAseOwArkaQKKHzwYA?e=reQOFa)
+Jessi: I wrote this in the assigning and reporting tasks section, but I can create a traceability matrix and test plan as well as an excel sheet for schedules. Ill link it here, the discord and email. Also, I'm not proficient in excel so if you can make it better, please do so!
 
 ## Communication Method
 - Discord
@@ -58,6 +59,8 @@ Jessi: I wrote this in the assigning and reporting tasks section, but I can crea
 Jessi: I think we should meet 1-2 times a week. Maybe Wednesday or/and Sunday? That way we can keep each other accountable and since life can get in the way at times, we can communicate the tasks we weren't able to complete and see who can help out to complete the tasks.
 
 ## Assigning and Reporting tasks
+[Traceability Matrix and Test Plan](https://snhu-my.sharepoint.com/:x:/g/personal/dasol_lee_snhu_edu/EYCizijs3dpCvHu_sDb5WpYBGnzftPIuqiX1ZiatMDqumg?e=bBBFkN)
+
 Jessi: I remember Github having a tool where we can delegate tasks to each other or tasks that we are going to do. I'll look into it and I can show you all how to use it. We can also create an excel sheet (Traceability Matrix and Test plan) and write all the tasks we need to get done and assign each other or ourselves to it. 
 
 </details>
