@@ -64,3 +64,19 @@ Jessi: I think we should meet 1-2 times a week. Maybe Wednesday or/and Sunday? T
 Jessi: I remember Github having a tool where we can delegate tasks to each other or tasks that we are going to do. I'll look into it and I can show you all how to use it. We can also create an excel sheet (Traceability Matrix and Test plan) and write all the tasks we need to get done and assign each other or ourselves to it. 
 
 </details>
+
+<details>
+<summary>Module Three Project Log - Team Development: QA and Testing Plan</summary>
+</details>
+
+<details>
+<summary>Module Four Project Log - Team Reflection</summary>
+</details>
+
+<details>
+<summary>Module Five Project Log - Team Reflection</summary>
+</details>
+
+<details>
+<summary>Module Six Project Log - Team Reflection</summary>
+</details>
