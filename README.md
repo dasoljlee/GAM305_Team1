@@ -28,6 +28,9 @@ Overall Sceanrio for the game is that the player has been miniatruized and inser
 
 Jessi: UMMMM. Maybe we can do like a "Honey, I strunk the kids", "Magicschool bus" or "Grounded" (game) vibes. Something along those lines in terms of our story/theme line.
 
+Evan: Since the player has been shrunken down and inserted into the body, the 5 required rooms in our level could be the organs, and shaped as such. The player was ingested like a medicinal pill, lands in the stomach, and must travel throughout the body to reach the final “Heart” room. Each organ room will have up to 3 variations of virus AI enemies to defeat, and travel between the rooms could be done through both horizontal/vertical elevator platforms (could be modeled after white blood cells which transport us to fight the viruses), and “capillary” tunnels that require crouching/crawling. Level progression through the rooms would be linear. Defeat all enemies in one room and move onto the next. 
+((I have hand sketched my initial ideas for the level design. Please see the image file saved in this project repository for a visual reference.))
+
 ## Level Requirements: 
 - Single Level <!--- Jessi-->
 - Designed for a player to move around looking for the targets (viruses) <!--- Jessi-->
@@ -39,9 +42,17 @@ Jessi: UMMMM. Maybe we can do like a "Honey, I strunk the kids", "Magicschool bu
 ## Level Elements:
 - Player spawn points: This is where the player will spawn at the beginning as well as respawn during the game. <!--- Jessi-->
 - Creation of viruses (3 total; each virus should look different from the otehr types. Should move and have AI) <!--- Jessi-->
+  
+  [Evan] Virus Variant 1: A quick moving, close range virus that chases the player and attacks through physical contact.
+  [Evan] Virus Variant 2: A virus that moves around the stage randomly and fires ranged projectiles at the player, which must be dodged.
+  [Evan] Virus Variant 3: A “shy” virus that does not move on its own but is spawned in locations that make it difficult to locate quickly. This virus type “reproduces” viruses that are either of the two offensive virus variations until it is found and eliminated by the                           player.
+  
 
 ## Additional Elements:
-Unknown <!--- Jessi-->
+[Evan] Additional Element 1: Two horizontal elevators and two vertical elevators (could be modeled after white blood cells which transport us to fight the viruses).
+[Evan] Additional Element 2: “Capillary” tunnels that require crouching/crawling.
+[Evan] Additional Element 3: “Virus reproduction” where some viruses can duplicate or split if the player does not eliminate it within a certain amount of time. There would have to be limits to how many can spawn to prevent slower players from being completely                                        overwhelmed, but I think it adding that slight sense of urgency to the FPS gameplay would be fun. This feature could be for all virus variations or be the defining feature of just one of the three. 
+[Evan] Additional Element 4: Pick-up items (At least three). We could do a Health boost item to recover the player’s health bar, Speed Boost for player movement speed, Shield item for temporary damage immunity, Rapid Fire item for weapon fire rate boost, or a Damage                                  boost item to increase weapon damage dealt to viruses, among other things. 
 
 ## Additional Element discussions:
 
