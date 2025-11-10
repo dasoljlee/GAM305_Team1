@@ -11,9 +11,11 @@
      
   4. UI/UX Programmer/Designer: "This team member" (replace "" when decided) will oversee the UI/UX development.
   
-  5. Level Designer/World Builder: "This team member" (replace "" when decided) will oversee the overall level design.
+  5. Level Designer/World Builder: Evan Smith will oversee the overall level design.
 
 Jessi: Since we have 1 less members compared to the other team, im thinking we can all share the responsibility of the last role? What do you guys think?
+
+Evan: Most of my experience with game development and UE5 comes directly from SNHU course work and watching YouTube tutorials, and seeing as how this is only the 3rd course, I am not the most confident in my skills as a programmer or asset creator. If anyone in the group is most confident in a specific role, please state your selection and go for it! Most of my work on this project so far has been for all the overall theme, world building, level design, and element descriptions as that is what I believed my input would fit best. I will put my name in Level Designer/World Builder role. I was thinking since we do have 1 less member, if our Artist is not creating their own assests and has permission to use external assets or AI generative art, their load might be reduced and could pick up the UI/UX design role. Let's discuss. I am happy to try other roles as well, I was just stating about where I feel I could best support the team. 
   
 </details>
 
@@ -23,12 +25,14 @@ Jessi: Since we have 1 less members compared to the other team, im thinking we c
 # Chosen Scenario 
 Unannounced First-Person Simulation <!--- Jessi-->
 
+[Evan] Codename: Vaccine
+
 ## Content
 Overall Sceanrio for the game is that the player has been miniatruized and inserted into the body. The player's goal is to locate and eliminate various viruses. The player will move through the game space and shoot the viruses. <!--- Jessi-->
 
 Jessi: UMMMM. Maybe we can do like a "Honey, I strunk the kids", "Magicschool bus" or "Grounded" (game) vibes. Something along those lines in terms of our story/theme line.
 
-Evan: Since the player has been shrunken down and inserted into the body, the 5 required rooms in our level could be the organs, and shaped as such. The player was ingested like a medicinal pill, lands in the stomach, and must travel throughout the body to reach the final “Heart” room. Each organ room will have up to 3 variations of virus AI enemies to defeat, and travel between the rooms could be done through both horizontal/vertical elevator platforms (could be modeled after white blood cells which transport us to fight the viruses), and “capillary” tunnels that require crouching/crawling. Level progression through the rooms would be linear. Defeat all enemies in one room and move onto the next. 
+[Evan] Since the player has been shrunken down and inserted into the body, the 5 required rooms in our level could be the organs, and shaped as such. The player was ingested like a medicinal pill, lands in the stomach, and must travel throughout the body to reach the final “Heart” room. Each organ room will have up to 3 variations of virus AI enemies to defeat, and travel between the rooms could be done through both horizontal/vertical elevator platforms (could be modeled after white blood cells which transport us to fight the viruses), and “capillary” tunnels that require crouching/crawling. Level progression through the rooms would be linear. Defeat all enemies in one room and move onto the next. 
 ((I have hand sketched my initial ideas for the level design. Please see the image file saved in this project repository for a visual reference.))
 
 ## Level Requirements: 
@@ -43,16 +47,16 @@ Evan: Since the player has been shrunken down and inserted into the body, the 5 
 - Player spawn points: This is where the player will spawn at the beginning as well as respawn during the game. <!--- Jessi-->
 - Creation of viruses (3 total; each virus should look different from the otehr types. Should move and have AI) <!--- Jessi-->
   
-  [Evan] Virus Variant 1: A quick moving, close range virus that chases the player and attacks through physical contact.
-  [Evan] Virus Variant 2: A virus that moves around the stage randomly and fires ranged projectiles at the player, which must be dodged.
-  [Evan] Virus Variant 3: A “shy” virus that does not move on its own but is spawned in locations that make it difficult to locate quickly. This virus type “reproduces” viruses that are either of the two offensive virus variations until it is found and eliminated by the                           player.
+- [Evan] Virus Variant 1: A quick moving, close range virus that chases the player and attacks through physical contact.
+- [Evan] Virus Variant 2: A virus that moves around the stage randomly and fires ranged projectiles at the player, which must be dodged.
+- [Evan] Virus Variant 3: A “shy” virus that does not move on its own but is spawned in locations that make it difficult to locate quickly. This virus type “reproduces” viruses that are either of the two offensive virus variations until it is found and eliminated by the                           player.
   
 
 ## Additional Elements:
-[Evan] Additional Element 1: Two horizontal elevators and two vertical elevators (could be modeled after white blood cells which transport us to fight the viruses).
-[Evan] Additional Element 2: “Capillary” tunnels that require crouching/crawling.
-[Evan] Additional Element 3: “Virus reproduction” where some viruses can duplicate or split if the player does not eliminate it within a certain amount of time. There would have to be limits to how many can spawn to prevent slower players from being completely                                        overwhelmed, but I think it adding that slight sense of urgency to the FPS gameplay would be fun. This feature could be for all virus variations or be the defining feature of just one of the three. 
-[Evan] Additional Element 4: Pick-up items (At least three). We could do a Health boost item to recover the player’s health bar, Speed Boost for player movement speed, Shield item for temporary damage immunity, Rapid Fire item for weapon fire rate boost, or a Damage                                  boost item to increase weapon damage dealt to viruses, among other things. 
+- [Evan] Additional Element 1: Two horizontal elevators and two vertical elevators (could be modeled after white blood cells which transport us to fight the viruses).
+- [Evan] Additional Element 2: “Capillary” tunnels that require crouching/crawling.
+- [Evan] Additional Element 3: “Virus reproduction” where some viruses can duplicate or split if the player does not eliminate it within a certain amount of time. There would have to be limits to how many can spawn to prevent slower players from being completely overwhelmed, but I think it adding that slight sense of urgency to the FPS gameplay would be fun. This feature could be for all virus variations or be the defining feature of just one of the three.
+- [Evan] Additional Element 4: Pick-up items (At least three). We could do a Health boost item to recover the player’s health bar, Speed Boost for player movement speed, Shield item for temporary damage immunity, Rapid Fire item for weapon fire rate boost, or a Damage boost item to increase weapon damage dealt to viruses, among other things. 
 
 ## Additional Element discussions:
 
