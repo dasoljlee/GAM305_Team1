@@ -5,7 +5,7 @@
   
   1. Team Lead: "This team member" (replace "" when decided) will oversee the repository and ensuring all required team documentation has been completed.
   
-  2. Artist: "This team member" (replace "" when decided) will oversee the aesthetics of the game. Instructors can determine if they can use external assets.
+  2. Artist: Josh Negron will oversee the aesthetics of the game. Instructors can determine if they can use external assets.
 
   3. Programmer: "This team member" (replace "" when decided) will oversee the base programming of the game (AI, Player, Mechanics).
      
@@ -50,17 +50,19 @@ Jessi: UMMMM. Maybe we can do like a "Honey, I strunk the kids", "Magicschool bu
 - [Evan] Virus Variant 1: A quick moving, close range virus that chases the player and attacks through physical contact.
 - [Evan] Virus Variant 2: A virus that moves around the stage randomly and fires ranged projectiles at the player, which must be dodged.
 - [Evan] Virus Variant 3: A “shy” virus that does not move on its own but is spawned in locations that make it difficult to locate quickly. This virus type “reproduces” viruses that are either of the two offensive virus variations until it is found and eliminated by the                           player.
+- [Josh] I can help check that the visual aspects of the level are consistent and make suggestions if something seems off.
   
 
 ## Additional Elements:
 - [Evan] Additional Element 1: Two horizontal elevators and two vertical elevators (could be modeled after white blood cells which transport us to fight the viruses).
 - [Evan] Additional Element 2: “Capillary” tunnels that require crouching/crawling.
 - [Evan] Additional Element 3: “Virus reproduction” where some viruses can duplicate or split if the player does not eliminate it within a certain amount of time. There would have to be limits to how many can spawn to prevent slower players from being completely overwhelmed, but I think it adding that slight sense of urgency to the FPS gameplay would be fun. This feature could be for all virus variations or be the defining feature of just one of the three.
-- [Evan] Additional Element 4: Pick-up items (At least three). We could do a Health boost item to recover the player’s health bar, Speed Boost for player movement speed, Shield item for temporary damage immunity, Rapid Fire item for weapon fire rate boost, or a Damage boost item to increase weapon damage dealt to viruses, among other things. 
+- [Evan] Additional Element 4: Pick-up items (At least three). We could do a Health boost item to recover the player’s health bar, Speed Boost for player movement speed, Shield item for temporary damage immunity, Rapid Fire item for weapon fire rate boost, or a Damage boost item to increase weapon damage dealt to viruses, among other things.
 
 ## Additional Element discussions:
 
 Jessi: Depending on the our theme, I think it would be fun to add a jump pad, teleporter, virus- tracking capability and virus reproduction. Please let me know what you all think.
+- [Josh] I can give ideas and feedback on the game’s visuals and how elements fit together.
 
 ## Schedule
 [Schedule Link](https://snhu-my.sharepoint.com/:x:/g/personal/dasol_lee_snhu_edu/EcpXnesIOY9IlKhKPIUpziwBNo3KOAseOwArkaQKKHzwYA?e=reQOFa)
@@ -77,6 +79,7 @@ Jessi: I think we should meet 1-2 times a week. Maybe Wednesday or/and Sunday? T
 [Traceability Matrix and Test Plan](https://snhu-my.sharepoint.com/:x:/g/personal/dasol_lee_snhu_edu/EYCizijs3dpCvHu_sDb5WpYBGnzftPIuqiX1ZiatMDqumg?e=bBBFkN)
 
 Jessi: I remember Github having a tool where we can delegate tasks to each other or tasks that we are going to do. I'll look into it and I can show you all how to use it. We can also create an excel sheet (Traceability Matrix and Test plan) and write all the tasks we need to get done and assign each other or ourselves to it. 
+[Josh] I can track my contributions and update the team on what I’ve worked on.
 
 </details>
 
