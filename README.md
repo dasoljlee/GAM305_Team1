@@ -2,6 +2,8 @@
 
 <details>
 <summary> Assigned Roles and their descriptions </summary> <!--- Jessi-->
+
+# Assigned Roles and their descriptions
   
   1. Team Lead: Jessi Lee will oversee the repository and ensuring all required team documentation has been completed.
   
@@ -24,7 +26,9 @@ Matthew: Almost all of my hours within Unreal have been focused on gameplay mech
 <details> <!--- Jessi-->
 <summary> Module Two Team Project Plan</summary> <!--- Jessi-->
 
-# Chosen Scenario 
+# Module Two Team Project Plan
+
+## Chosen Scenario 
 Unannounced First-Person Simulation <!--- Jessi-->
 
 [Evan] Codename: Vaccine
@@ -92,7 +96,8 @@ Jessi: I remember Github having a tool where we can delegate tasks to each other
 
 <details>
 <summary>Module Three Project Log - Team Development: QA and Testing Plan</summary>
-# QA and Testing Plan
+  
+# Module Three Project Log - Team Development: QA and Testing Plan
 
 ## Test plan
 [Traceability Matrix and Test Plan](https://snhu-my.sharepoint.com/:x:/g/personal/dasol_lee_snhu_edu/EYCizijs3dpCvHu_sDb5WpYBGnzftPIuqiX1ZiatMDqumg?e=bBBFkN)
