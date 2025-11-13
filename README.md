@@ -3,7 +3,7 @@
 <details>
 <summary> Assigned Roles and their descriptions </summary> <!--- Jessi-->
   
-  1. Team Lead: "This team member" (replace "" when decided) will oversee the repository and ensuring all required team documentation has been completed.
+  1. Team Lead: Jessi Lee will oversee the repository and ensuring all required team documentation has been completed.
   
   2. Artist: Josh Negron will oversee the aesthetics of the game. Instructors can determine if they can use external assets.
 
@@ -13,7 +13,7 @@
   
   5. Level Designer/World Builder: Evan Smith will oversee the overall level design.
 
-Jessi: Since we have 1 less members compared to the other team, im thinking we can all share the responsibility of the last role? What do you guys think?
+Jessi: Since we have 1 less members compared to the other team, im thinking we can all share the responsibility of the last remaining role? What do you guys think?
 
 Evan: Most of my experience with game development and UE5 comes directly from SNHU course work and watching YouTube tutorials, and seeing as how this is only the 3rd course, I am not the most confident in my skills as a programmer or asset creator. If anyone in the group is most confident in a specific role, please state your selection and go for it! Most of my work on this project so far has been for all the overall theme, world building, level design, and element descriptions as that is what I believed my input would fit best. I will put my name in Level Designer/World Builder role. I was thinking since we do have 1 less member, if our Artist is not creating their own assests and has permission to use external assets or AI generative art, their load might be reduced and could pick up the UI/UX design role. Let's discuss. I am happy to try other roles as well, I was just stating about where I feel I could best support the team. 
 
@@ -92,6 +92,26 @@ Jessi: I remember Github having a tool where we can delegate tasks to each other
 
 <details>
 <summary>Module Three Project Log - Team Development: QA and Testing Plan</summary>
+# QA and Testing Plan
+
+## Test plan
+[Traceability Matrix and Test Plan](https://snhu-my.sharepoint.com/:x:/g/personal/dasol_lee_snhu_edu/EYCizijs3dpCvHu_sDb5WpYBGnzftPIuqiX1ZiatMDqumg?e=bBBFkN)
+
+Jessi: Initially, I created the traceability matrix with the test plan include in another tab. I think we can keep using the same one or creating a duplicate of the test plan tab. I'll create one just incase as well as adding our new updated information.
+
+## Schedule
+[Schedule Link](https://snhu-my.sharepoint.com/:x:/g/personal/dasol_lee_snhu_edu/EcpXnesIOY9IlKhKPIUpziwBNo3KOAseOwArkaQKKHzwYA?e=reQOFa)
+
+Jessi: I, also, created this back in module two (not my greatest excel work). We can create another tab in there just for QA Scheduling. 
+
+## Checklist
+
+Jessi: I'll create a checklist of things that need to be done in a word document format.
+
+## Bugs
+
+Refer to the traceability matrix and test plan.
+
 </details>
 
 <details>
