@@ -104,6 +104,10 @@ Jessi: I remember Github having a tool where we can delegate tasks to each other
 
 Jessi: Initially, I created the traceability matrix with the test plan include in another tab. I think we can keep using the same one or creating a duplicate of the test plan tab. I'll create one just incase as well as adding our new updated information.
 
+[Evan] A changelog will be maintained in the Traceability Matrix and Test Plan document detailing the intended feature, issues/bugs discovered, the bug’s severity, the actions that cause the bug to occur, and how it was fixed.
+
+[Evan] Immediately following discovery, we could inform the team through Discord of any bugs found and what seemed to cause it to occur so that everyone is aware. Then, the team member that implemented the bugged game mechanic could dive deeper into it and find a solution. They would update the test plan changelog as they work on the bug fix.
+
 ## Schedule
 [Schedule Link](https://snhu-my.sharepoint.com/:x:/g/personal/dasol_lee_snhu_edu/EcpXnesIOY9IlKhKPIUpziwBNo3KOAseOwArkaQKKHzwYA?e=reQOFa)
 
