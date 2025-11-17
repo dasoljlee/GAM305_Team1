@@ -109,6 +109,28 @@ Jessi: Initially, I created the traceability matrix with the test plan include i
 
 Jessi: I, also, created this back in module two (not my greatest excel work). We can create another tab in there just for QA Scheduling. 
 
+[Evan] Proposed Project Development Timeline:
+Play Test: Testing during the preproduction stage
+•	Prototype level mapped out
+•	Core gameplay mechanics implemented and functional
+•	Basic gameplay UI/UX created and responds to gameplay events
+•	Concept art style for models and textures created
+•	All team members tracking bugs
+•	Due by end of Module 4 (11/23/25)
+Demo: Testing before marketing will demo the project
+•	Overall level design completed; AI pathfinding mapped
+•	AI behavior and powerup item mechanics developed
+•	Main Menu implementation (Start, quit, credits, instructions, controls, etc.)
+•	Model and texture designs applied to game assets
+•	All team members tracking bugs
+•	Due by end of Module 5 (11/30/25)
+Code Release: Checking the code release demo with the test plan
+•	Overall level design, gameplay mechanics, UI/UX final touches and polish
+•	Full game played start to finish to ensure no progression blockers
+•	Confirm all severe bugs fixed in final build by rerunning all previous test cases
+•	Due by end of Module 6 (12/07/25)
+
+
 ## Checklist
 
 Jessi: I'll create a checklist of things that need to be done in a word document format.
