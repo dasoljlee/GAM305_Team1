@@ -134,6 +134,7 @@ Code Release: Checking the code release demo with the test plan
 •	Confirm all severe bugs fixed in final build by rerunning all previous test cases
 •	Due by end of Module 6 (12/07/25)
 
+Josh Negron: After our Discord meeting, I agree with the QA and testing plan. The schedule, checklist, and bug tracking ideas are great, and I think the plan we came up with will keep the game organized and make sure everything works correctly.
 
 ## Checklist
 
