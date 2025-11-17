@@ -139,6 +139,9 @@ Jessi: I'll create a checklist of things that need to be done in a word document
 
 Refer to the traceability matrix and test plan.
 
+## Meetings
+
+
 </details>
 
 <details>
