@@ -73,6 +73,20 @@ Jessi: Depending on the our theme, I think it would be fun to add a jump pad, te
 - [Josh] I can give ideas and feedback on the game’s visuals and how elements fit together.
 - [Matthew] I really like the idea of virus reproduction, I feel like this could setup a super fun end-game situation with the virus spreading faster and faster.
 
+## Alpha Submission Goals
+
+- Connecting rooms
+- Player/AI (movement, interaction, shooting, aiming ...etc)
+- UI/UX (Main Menu, HP Bar, Damage)
+
+
+## Beta Submission Goals
+
+- All addition elements are implemented
+- Full UI/UX working
+- Audio and effects implemented
+- QA tested
+
 ## Schedule
 [Schedule Link](https://snhu-my.sharepoint.com/:x:/g/personal/dasol_lee_snhu_edu/EcpXnesIOY9IlKhKPIUpziwBNo3KOAseOwArkaQKKHzwYA?e=reQOFa)
 Jessi: I wrote this in the assigning and reporting tasks section, but I can create a traceability matrix and test plan as well as an excel sheet for schedules. Ill link it here, the discord and email. Also, I'm not proficient in excel so if you can make it better, please do so!
@@ -144,13 +158,24 @@ Jessi: I'll create a checklist of things that need to be done in a word document
 
 Refer to the traceability matrix and test plan.
 
-## Meetings
-
 
 </details>
 
 <details>
 <summary>Module Four Project Log - Team Reflection</summary>
+
+## What parts of the testing did the team perceive to go well?
+
+## How were bugs identified and corrected?
+
+## In terms of the QA and testing process, what would you do differently to impove the process?
+
+## What tools(chosen in Module Two) did you find successful in the development of your Alpha project? Why?
+
+## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+
+## How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
+
 </details>
 
 <details>
