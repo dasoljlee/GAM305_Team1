@@ -170,13 +170,22 @@ Jessi: When I was talking with Matthew, he had tested out the main menu. He ment
 
 ## How were bugs identified and corrected?
 
+Jessi: There was a bug with the collision. However, Matthew was able to identify the issue and help resolve the issue.
+
 ## In terms of the QA and testing process, what would you do differently to impove the process?
+
+Jessi: I think testing the project together and going through each section everyone worked on helped see what went wrong and try to resolve the issues together. I don't think there would be anything different in what we can do to improve the process.
 
 ## What tools(chosen in Module Two) did you find successful in the development of your Alpha project? Why?
 
+Jessi: I'm not sure what the tools are. However, we were able to implement the map, main main and player/AI to be successful in the development of our Alpha project.
+
 ## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
 
+
 ## How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
+
+Jessi: Initial, I think we were confused how to approach it, but once we got the ball rolling, we have functioning game(: 
 
 </details>
 
