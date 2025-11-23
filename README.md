@@ -166,6 +166,8 @@ Refer to the traceability matrix and test plan.
 
 ## What parts of the testing did the team perceive to go well?
 
+Jessi: When I was talking with Matthew, he had tested out the main menu. He mentioned that everything was great, but the controls page had formatting issues. I had completely forgottent to include basic lines to create a division within the controls page. 
+
 ## How were bugs identified and corrected?
 
 ## In terms of the QA and testing process, what would you do differently to impove the process?
