@@ -168,24 +168,35 @@ Refer to the traceability matrix and test plan.
 
 Jessi: When I was talking with Matthew, he had tested out the main menu. He mentioned that everything was great, but the controls page had formatting issues. I had completely forgottent to include basic lines to create a division within the controls page. 
 
+Josh: The parts of the testing that the team perceived well were the UI, the level, the characters, and the controls turned out better than expected. 
+
 ## How were bugs identified and corrected?
 
 Jessi: There was a bug with the collision. However, Matthew was able to identify the issue and help resolve the issue.
 
-## In terms of the QA and testing process, what would you do differently to impove the process?
+Josh: The bug was the collision, and this was corrected by a change/update in the collision settings. 
+
+## In terms of the QA and testing process, what would you do differently to improve the process?
 
 Jessi: I think testing the project together and going through each section everyone worked on helped see what went wrong and try to resolve the issues together. I don't think there would be anything different in what we can do to improve the process.
+
+Josh: I would not do much of anything different because we are consistently working on the process while inside and outside our meeting. 
 
 ## What tools(chosen in Module Two) did you find successful in the development of your Alpha project? Why?
 
 Jessi: I'm not sure what the tools are. However, we were able to implement the map, main main and player/AI to be successful in the development of our Alpha project.
 
+Josh: The tools I found that were successful were Discord for communication and FAB in the Epic Games launcher, which is where I was able to find my assets. 
+
 ## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
 
+Josh: There were no tools or techniques that I did not find helpful; I was able to get help from them. 
 
 ## How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
 
 Jessi: Initial, I think we were confused how to approach it, but once we got the ball rolling, we have functioning game(: 
+
+Josh: The game design document helped me understand the style of the game which made it easier for me to find assets. 
 
 </details>
 
