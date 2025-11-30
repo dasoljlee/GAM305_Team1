@@ -166,6 +166,18 @@ Refer to the traceability matrix and test plan.
 
 ## What parts of the testing did the team perceive to go well?
 
+<<<<<<< HEAD
+## How were bugs identified and corrected?
+
+## In terms of the QA and testing process, what would you do differently to impove the process?
+
+## What tools(chosen in Module Two) did you find successful in the development of your Alpha project? Why?
+
+## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+
+## How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
+
+=======
 Jessi: When I was talking with Matthew, he had tested out the main menu. He mentioned that everything was great, but the controls page had formatting issues. I had completely forgottent to include basic lines to create a division within the controls page. 
 
 Josh: The parts of the testing that the team perceived well were the UI, the level, the characters, and the controls turned out better than expected. 
@@ -206,6 +218,7 @@ Josh: The game design document helped me understand the style of the game which 
 
 Evan: Using the game design document, I was able to look at all the features and elements that were required of our game, and individually piece together ideas for a full game experience following a common theme that was provided to start with. Using that theme, I was able to expand upon it with the game requirements in mind, like with my plan for the level design being 5 vital organs of the body. With the level design visualized in my head, I was then able to research the level modeling tools that UE5 has to offer, which is when I discovered the CubeGrid modeling tool. I knew I wanted to use it for this game immediately because of its ease of use and accessibility to me. 
 
+>>>>>>> master
 </details>
 
 <details>
