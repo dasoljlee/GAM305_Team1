@@ -166,6 +166,7 @@ Refer to the traceability matrix and test plan.
 
 ## What parts of the testing did the team perceive to go well?
 
+<<<<<<< HEAD
 ## How were bugs identified and corrected?
 
 ## In terms of the QA and testing process, what would you do differently to impove the process?
@@ -176,6 +177,48 @@ Refer to the traceability matrix and test plan.
 
 ## How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
 
+=======
+Jessi: When I was talking with Matthew, he had tested out the main menu. He mentioned that everything was great, but the controls page had formatting issues. I had completely forgottent to include basic lines to create a division within the controls page. 
+
+Josh: The parts of the testing that the team perceived well were the UI, the level, the characters, and the controls turned out better than expected. 
+
+## How were bugs identified and corrected?
+
+Jessi: There was a bug with the collision. However, Matthew was able to identify the issue and help resolve the issue.
+
+Josh: The bug was the collision, and this was corrected by a change/update in the collision settings. 
+
+Evan: Bugs were identified through play testing the game in engine, and then the team was notified through Discord. We then got together in a voice call meeting and solved the issue. The issue was with a bug that UE5 has that started on version 5.6.0 where CubeGrid modeling tool creations do not automatically have collision built-in, when it used to in previous versions. While researching and testing various potential fixes as a team, Matthew ended up finding the solution. The collision has to be set manually within the static mesh of each individual CubeGrid model created. I set the modeling tool collision setting default to include collision within the project settings, so this issue should not occur with any CubeGrid models created in the future.
+
+## In terms of the QA and testing process, what would you do differently to improve the process?
+
+Jessi: I think testing the project together and going through each section everyone worked on helped see what went wrong and try to resolve the issues together. I don't think there would be anything different in what we can do to improve the process.
+
+Josh: I would not do much of anything different because we are consistently working on the process while inside and outside our meeting. 
+
+## What tools(chosen in Module Two) did you find successful in the development of your Alpha project? Why?
+
+Jessi: I'm not sure what the tools are. However, we were able to implement the map, main menu and player/AI to be successful in the development of our Alpha project.
+
+Josh: The tools I found that were successful were Discord for communication and FAB in the Epic Games launcher, which is where I was able to find my assets. 
+
+Evan: I had great success with designing the 5 rooms of the level using the CubeGrid modeling tool built-in to UE5. I was able to quickly create the layout of each room and the connecting paths between them with ease, while allowing the ability to add more detail and intricacy to the level through the next couple weeks for our scheduled Beta and Final build releases.
+
+## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+
+Josh: There were no tools or techniques that I did not find helpful; I was able to get help from them. 
+
+Evan: The CubeGrid modeling tool overall worked successfully for me, however, there was one technique I used with that tool that was problematic to me at first. After creating the first Lung room, I had to create the second lung so I copy and pasted LungLevel_1 model and flipped it so that they would be mirrored. It was after a few minutes of altering the new second lung model to make it it's own unique room that I realized all the alterations I've been making has also been affecting the original lung. I thought that copy and pasting a model would make it act as it's own model, but it does not. I had to recreate the original lung level areas that were removed unintentionally, and then I had to duplicate the model file instead to create an identical but separate model which worked as intended going forward.
+
+## How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
+
+Jessi: Initial, I think we were confused how to approach it, but once we got the ball rolling, we have functioning game(: 
+
+Josh: The game design document helped me understand the style of the game which made it easier for me to find assets.
+
+Evan: Using the game design document, I was able to look at all the features and elements that were required of our game, and individually piece together ideas for a full game experience following a common theme that was provided to start with. Using that theme, I was able to expand upon it with the game requirements in mind, like with my plan for the level design being 5 vital organs of the body. With the level design visualized in my head, I was then able to research the level modeling tools that UE5 has to offer, which is when I discovered the CubeGrid modeling tool. I knew I wanted to use it for this game immediately because of its ease of use and accessibility to me. 
+
+>>>>>>> master
 </details>
 
 <details>
