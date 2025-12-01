@@ -214,21 +214,29 @@ Evan: Using the game design document, I was able to look at all the features and
 
 Evan: Everything is going very smoothly so far. During last week’s evaluation, we encountered a bug and faced some last minute issues with collision across the entire game level. After solving that issue before last week’s Alpha release, we have not encountered any notable bugs or errors as we worked towards this Beta release.
 
+Jessi: Based on last week's evaluation we had encountered bugs. During the evaluation we were able to provide each other solutions to resolve the bugs that we were having. We had plan to work on our tasks and have meetings to test our tasks to ensure that everything was smooth. Since then, we have not encountered any bugs and a great functioning game.
+
 ## What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
 
 Evan: The only problem we faced while working towards this Beta release compared to last week was an issue with GitHub. When pushing my latest updates to the project repository, it was unable to merge to the master branch because of a large number of conflicts. These conflicts had to be carefully managed individually through the command line to avoid data loss. Once they managed, the master branch was able to merge with my new level design updates, and everything worked smoothly from then on.
+
+Jessi: To be fair, we didn't have any issues except with Github. When we encountered those issues, we researched and helped each other out to resolve the issues.
 
 ## How were the previous evaluations integrated into this latest stage?
 
 Evan: During our previous evaluation, we discussed what we were able to complete and what was missed from our original feature schedule. We also discussed new ideas that we came up with after the initial draft our game. During this week, we worked on the features discussed in the last evaluation to ensure we stay on track with progress for our Beta release.
 
+Jessi: Last evaluations, we talked about the tasks we completed and what we plan to work on. Today, we shared the tasks that we completed and shared our future tasks.
+
 ## What would you do differently to improve the collaboration or development process?
 
 Evan: Our current collaboration and development process has been working very well and I do not feel we need to make any changes to it. We meet and discuss progress and potential concerns twice a week, which ensures we stay on track and allows us to discuss if we need something from another team member before any crucial due dates.
 
+Jessi: There's nothing I would change. The start of the project was rough with the limited time and understanding of this project. Our collaboration and developemtn process may not be conventional or meet the standards as to how most games are developed, but we were able to develop an amazing game with the limited knowledge we had.
+
 ## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
 
-
+Jessi: Honestly there's were no tools or techniques that I did not find helpful.
 
 ## Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.
 
@@ -238,7 +246,15 @@ This Beta Release consists of a fully textured and navigable map of 5 rooms with
 Evan: FULL RELEASE:
 Full release will include functional moving elevator platforms, final detail added to the interior of Lung_2 and Heart levels, stomach acid/liver toxin liquid material pools that damage the player if touched, and implementation of the third AI enemy virus variant.
 
+Jessi: 
+ALPHA STAGE:
+- Player/AI Movements
+- Main Menu
+- Assets
+- Main Level
 
+BETA STAGE: Currently in the process towards completion
+FULL RELEASE: Currently in the process towards completion
 
 </details>
 
