@@ -11,7 +11,7 @@
 
   3. Programmer: Matthew Bridegroom will oversee the base programming of the game (AI, Player, Mechanics).
      
-  4. UI/UX Programmer/Designer: "This team member" (replace "" when decided) will oversee the UI/UX development.
+  4. UI/UX Programmer/Designer: Jessi Lee & Josh Negron will oversee the UI/UX development.
   
   5. Level Designer/World Builder: Evan Smith will oversee the overall level design.
 
@@ -253,11 +253,42 @@ ALPHA STAGE:
 - Assets
 - Main Level
 
-BETA STAGE: Currently in the process towards completion
+BETA STAGE: 
+- Elevators
+- Player UI
+- different weapons
+  
 FULL RELEASE: Currently in the process towards completion
 
 </details>
 
 <details>
 <summary>Module Six Project Log - Team Reflection</summary>
+
+## What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+
+Jessi: The constant checking of each other's tasks. We were able to identify bugs and fix them quickly.
+
+Josh: Our communication was really strong, which made progress smoother.
+
+## What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+
+Jessi: The big issue we constantly have is Github. There was a lot of conflicts and we had trouble fixing them. One of the conflicts we had was the pause menu being deleted consistently. But once we figured out what the error was and how we can resolve it in the future, github wasn't as big of an issue anymore.
+
+Josh: We ran into some issues when pushing and pulling requests on GitHub, but they were later resolved
+
+## How were the previous evaluations integrated into this latest stage?
+
+Jessi: Again, we talked about what we did and what we last min changes we were going to add. 
+
+## What would you do differently to improve the collaboration or development process?
+
+Jessi: Nothing. Everything is smooth and sailing.
+
+Josh: Overall, the collaboration process went smoothly, and I don't think anything needs to be changed.
+
+## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+
+Jessi: Not entirely. I think some assets we included didn't match well with what we envisioned so we added a new assets to improve that.
+
 </details>
