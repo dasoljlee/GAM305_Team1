@@ -271,7 +271,7 @@ Jessi: The constant checking of each other's tasks. We were able to identify bug
 
 ## What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
 
-Jessi: The big issue we constantly have is Github. There was a lot of conflicts and we had trouble fixing them. But once we figured out what the error was and how we can resolve it in the future, github wasn't as big of an issue anymore.
+Jessi: The big issue we constantly have is Github. There was a lot of conflicts and we had trouble fixing them. One of the conflicts we had was the pause menu being deleted consistently. But once we figured out what the error was and how we can resolve it in the future, github wasn't as big of an issue anymore.
 
 ## How were the previous evaluations integrated into this latest stage?
 
