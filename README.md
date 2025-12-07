@@ -271,15 +271,21 @@ Jessi: The constant checking of each other's tasks. We were able to identify bug
 
 Josh: Our communication was really strong, which made progress smoother.
 
+Evan: Finishing up the final design details of the level for our final release went very well overall. I was able to make the capillary tunnels and Lung 2 level designs much smoother, and I finished the interior of the heart level which is divided into two sections with an artery tube to travel between them.
+
 ## What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
 
 Jessi: The big issue we constantly have is Github. There was a lot of conflicts and we had trouble fixing them. One of the conflicts we had was the pause menu being deleted consistently. But once we figured out what the error was and how we can resolve it in the future, github wasn't as big of an issue anymore.
 
 Josh: We ran into some issues when pushing and pulling requests on GitHub, but they were later resolved
 
+Evan: The biggest challenge for me during this final release development stage was getting the water system to work for the “stomach acid” and “liver toxin”. First, I tried using a static mesh model with an acid-like texture, but I was unable to get the collision to work properly. The player could only walk on top of the water and not through it. Then I decided to use the UE5 Water plugin and ran into issues with the WaterBodyOcean actor putting water everywhere except the level. Using the WaterBodyRiver actor instead, I was able to get water throughout the level the way wanted but still ran into issues with the velocity of water flow. Fortunately, I was able to slow down the velocity setting of each river spline in the details panel.
+
 ## How were the previous evaluations integrated into this latest stage?
 
 Jessi: Again, we talked about what we did and what we last min changes we were going to add. 
+
+Evan: In our previous evaluation after our beta release, we determined exactly what was still needed to implement for our final release this week. “Full release will include functional moving elevator platforms, final detail added to the interior of Lung_2 and Heart levels, stomach acid/liver toxin liquid material pools that damage the player if touched, and implementation of the third AI enemy virus variant”. Using that, we were able to stay on track during this final week of development and were successful with the implementation of all points mentioned.
 
 ## What would you do differently to improve the collaboration or development process?
 
@@ -287,8 +293,12 @@ Jessi: Nothing. Everything is smooth and sailing.
 
 Josh: Overall, the collaboration process went smoothly, and I don't think anything needs to be changed.
 
+Evan: Since this was the final week of our development timeline, our team met for an extended meeting on Friday and much earlier than usual on Sunday so that we could ensure we had extra time to work out any potential issues we ran into. This slight change to our collaboration process turned out to be very helpful as we did have some repository conflict issues throughout the week, as well as a few bugs and errors with the UI and water collision. We were able to solve everything much quicker with the extra team meeting time.
+
 ## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
 
 Jessi: Not entirely. I think some assets we included didn't match well with what we envisioned so we added a new assets to improve that.
+
+Evan: The CubeGridTool in UE5 was unhelpful this week as I could not get the collision settings to work the way I wanted for the stomach acid and liver toxin pools. I placed a half-sized block area throughout the stomach level so that it would cover everything except for the stomach chunks that the player would have to use to jump across. I wanted the acid static mesh to overlap instead of blocking the player character, but no matter what collision setting edited in either the engine or in the static mesh file, the player always walked on top of the acid model. Instead I did some research and opted to use the Water plugin to get a realistic liquid model for the acid and toxin pools. This was much better as it had nice water animation and effect, and I could change the color and collision setting easily.
 
 </details>
