@@ -11,7 +11,7 @@
 
   3. Programmer: Matthew Bridegroom will oversee the base programming of the game (AI, Player, Mechanics).
      
-  4. UI/UX Programmer/Designer: "This team member" (replace "" when decided) will oversee the UI/UX development.
+  4. UI/UX Programmer/Designer: Jessi Lee & Josh Negron will oversee the UI/UX development.
   
   5. Level Designer/World Builder: Evan Smith will oversee the overall level design.
 
