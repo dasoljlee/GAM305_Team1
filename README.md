@@ -297,7 +297,7 @@ Evan: Since this was the final week of our development timeline, our team met fo
 
 ## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
 
-Jessi: Not entirely. I think some assets we included didn't match well with what we envisioned so we added a new assets to improve that.
+Jessi: I think some assets we included didn't match well with what we envisioned so we added a new assets to improve that. I tried adding input objective tutorial, but I wasn't able to connect the inputs with the objective completion so it has been left unfinished.
 
 Evan: The CubeGridTool in UE5 was unhelpful this week as I could not get the collision settings to work the way I wanted for the stomach acid and liver toxin pools. I placed a half-sized block area throughout the stomach level so that it would cover everything except for the stomach chunks that the player would have to use to jump across. I wanted the acid static mesh to overlap instead of blocking the player character, but no matter what collision setting edited in either the engine or in the static mesh file, the player always walked on top of the acid model. Instead I did some research and opted to use the Water plugin to get a realistic liquid model for the acid and toxin pools. This was much better as it had nice water animation and effect, and I could change the color and collision setting easily.
 
