@@ -150,6 +150,8 @@ Code Release: Checking the code release demo with the test plan
 
 Josh Negron: After our Discord meeting, I agree with the QA and testing plan. The schedule, checklist, and bug tracking ideas are great, and I think the plan we came up with will keep the game organized and make sure everything works correctly.
 
+Matthew Bridegroom: Withing our dicsord meeting we proposed different ways to deal with any QA issues and secured ways to contact each other.
+
 ## Checklist
 
 Jessi: I'll create a checklist of things that need to be done in a word document format.
@@ -178,11 +180,15 @@ Josh: The bug was the collision, and this was corrected by a change/update in th
 
 Evan: Bugs were identified through play testing the game in engine, and then the team was notified through Discord. We then got together in a voice call meeting and solved the issue. The issue was with a bug that UE5 has that started on version 5.6.0 where CubeGrid modeling tool creations do not automatically have collision built-in, when it used to in previous versions. While researching and testing various potential fixes as a team, Matthew ended up finding the solution. The collision has to be set manually within the static mesh of each individual CubeGrid model created. I set the modeling tool collision setting default to include collision within the project settings, so this issue should not occur with any CubeGrid models created in the future.
 
+Matthew: Many bugs were identified all throughout the development process. However the majority of them, I found while developing the player Character and would do my best to minimize the effect they had on the game if not completly fix them.
+
 ## In terms of the QA and testing process, what would you do differently to improve the process?
 
 Jessi: I think testing the project together and going through each section everyone worked on helped see what went wrong and try to resolve the issues together. I don't think there would be anything different in what we can do to improve the process.
 
 Josh: I would not do much of anything different because we are consistently working on the process while inside and outside our meeting. 
+
+Matthew: One thing I would do differnt would be to incorporate a ticket system where a ticket is posted on found bugs and is left up until it is resolved.
 
 ## What tools(chosen in Module Two) did you find successful in the development of your Alpha project? Why?
 
@@ -191,6 +197,8 @@ Jessi: I'm not sure what the tools are. However, we were able to implement the m
 Josh: The tools I found that were successful were Discord for communication and FAB in the Epic Games launcher, which is where I was able to find my assets. 
 
 Evan: I had great success with designing the 5 rooms of the level using the CubeGrid modeling tool built-in to UE5. I was able to quickly create the layout of each room and the connecting paths between them with ease, while allowing the ability to add more detail and intricacy to the level through the next couple weeks for our scheduled Beta and Final build releases.
+
+Matthew: One tool that I found success in using was the modeling tool, I was able to create the different models for the enemies and gun in a unique way directly withing Unreal Engine.
 
 ## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
 
@@ -207,6 +215,8 @@ Josh: The game design document helped me understand the style of the game which 
 Evan: Using the game design document, I was able to look at all the features and elements that were required of our game, and individually piece together ideas for a full game experience following a common theme that was provided to start with. Using that theme, I was able to expand upon it with the game requirements in mind, like with my plan for the level design being 5 vital organs of the body. With the level design visualized in my head, I was then able to research the level modeling tools that UE5 has to offer, which is when I discovered the CubeGrid modeling tool. I knew I wanted to use it for this game immediately because of its ease of use and accessibility to me. 
 </details>
 
+Matthew: We approached the initial analysis by having 2 people on the team come forward with their differnet ideas of what it was asking for and everyone built upon them by adding or changing the way they were interpreted.
+
 <details>
 <summary>Module Five Project Log - Team Reflection</summary>
 
@@ -215,6 +225,8 @@ Evan: Using the game design document, I was able to look at all the features and
 Evan: Everything is going very smoothly so far. During last week’s evaluation, we encountered a bug and faced some last minute issues with collision across the entire game level. After solving that issue before last week’s Alpha release, we have not encountered any notable bugs or errors as we worked towards this Beta release.
 
 Jessi: Based on last week's evaluation we had encountered bugs. During the evaluation we were able to provide each other solutions to resolve the bugs that we were having. We had plan to work on our tasks and have meetings to test our tasks to ensure that everything was smooth. Since then, we have not encountered any bugs and a great functioning game.
+
+Matthew: I would say the thing that went well was the development of the playercharacter. I believe that we were already set up by the amount of progress I had made on it and were able to contribe more resources towards UI and Level assets.
 
 ## What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
 
@@ -227,6 +239,8 @@ Jessi: To be fair, we didn't have any issues except with Github. When we encount
 Evan: During our previous evaluation, we discussed what we were able to complete and what was missed from our original feature schedule. We also discussed new ideas that we came up with after the initial draft our game. During this week, we worked on the features discussed in the last evaluation to ensure we stay on track with progress for our Beta release.
 
 Jessi: Last evaluations, we talked about the tasks we completed and what we plan to work on. Today, we shared the tasks that we completed and shared our future tasks.
+
+Matthew: Previous evaluations helped in guiding what we needed to add for this stage.
 
 ## What would you do differently to improve the collaboration or development process?
 
@@ -273,6 +287,8 @@ Josh: Our communication was really strong, which made progress smoother.
 
 Evan: Finishing up the final design details of the level for our final release went very well overall. I was able to make the capillary tunnels and Lung 2 level designs much smoother, and I finished the interior of the heart level which is divided into two sections with an artery tube to travel between them.
 
+Matthew: I believe that our final stage of development went really well. Being able to fill out the level and get everyhting to work together all while on a call allowed us to get a better understanding of the different problems.
+
 ## What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
 
 Jessi: The big issue we constantly have is Github. There was a lot of conflicts and we had trouble fixing them. One of the conflicts we had was the pause menu being deleted consistently. But once we figured out what the error was and how we can resolve it in the future, github wasn't as big of an issue anymore.
@@ -281,17 +297,25 @@ Josh: We ran into some issues when pushing and pulling requests on GitHub, but t
 
 Evan: The biggest challenge for me during this final release development stage was getting the water system to work for the “stomach acid” and “liver toxin”. First, I tried using a static mesh model with an acid-like texture, but I was unable to get the collision to work properly. The player could only walk on top of the water and not through it. Then I decided to use the UE5 Water plugin and ran into issues with the WaterBodyOcean actor putting water everywhere except the level. Using the WaterBodyRiver actor instead, I was able to get water throughout the level the way wanted but still ran into issues with the velocity of water flow. Fortunately, I was able to slow down the velocity setting of each river spline in the details panel.
 
+Matthew: I would say that the biggest thing percieved to go wrong was the trouble with different commits. A good majority of the commits would have errors with the merging as assets like PlayerCharacter were being worked on in different ways at different times which led to a whole batch of conflicts.
+
+
+
 ## How were the previous evaluations integrated into this latest stage?
 
 Jessi: Again, we talked about what we did and what we last min changes we were going to add. 
 
 Evan: In our previous evaluation after our beta release, we determined exactly what was still needed to implement for our final release this week. “Full release will include functional moving elevator platforms, final detail added to the interior of Lung_2 and Heart levels, stomach acid/liver toxin liquid material pools that damage the player if touched, and implementation of the third AI enemy virus variant”. Using that, we were able to stay on track during this final week of development and were successful with the implementation of all points mentioned.
 
+Matthew: We had a discussion around the last bit of changes and additions we wanted to have in order to deliver a completed game such as drops, main boss, and a screen for winning. We were able to work together through different commits to get these taken care of.
+
 ## What would you do differently to improve the collaboration or development process?
 
 Jessi: Nothing. Everything is smooth and sailing.
 
 Josh: Overall, the collaboration process went smoothly, and I don't think anything needs to be changed.
+
+Matthew: I would probably try to define which areas each person is responsible for in a more efficient way.
 
 Evan: Since this was the final week of our development timeline, our team met for an extended meeting on Friday and much earlier than usual on Sunday so that we could ensure we had extra time to work out any potential issues we ran into. This slight change to our collaboration process turned out to be very helpful as we did have some repository conflict issues throughout the week, as well as a few bugs and errors with the UI and water collision. We were able to solve everything much quicker with the extra team meeting time.
 
@@ -300,5 +324,7 @@ Evan: Since this was the final week of our development timeline, our team met fo
 Jessi: I think some assets we included didn't match well with what we envisioned so we added a new assets to improve that. I tried adding input objective tutorial, but I wasn't able to connect the inputs with the objective completion so it has been left unfinished.
 
 Evan: The CubeGridTool in UE5 was unhelpful this week as I could not get the collision settings to work the way I wanted for the stomach acid and liver toxin pools. I placed a half-sized block area throughout the stomach level so that it would cover everything except for the stomach chunks that the player would have to use to jump across. I wanted the acid static mesh to overlap instead of blocking the player character, but no matter what collision setting edited in either the engine or in the static mesh file, the player always walked on top of the acid model. Instead I did some research and opted to use the Water plugin to get a realistic liquid model for the acid and toxin pools. This was much better as it had nice water animation and effect, and I could change the color and collision setting easily.
+
+Matthew: I believe that having an abundance of assets in the game that were not used was probably not the most helpful.
 
 </details>
