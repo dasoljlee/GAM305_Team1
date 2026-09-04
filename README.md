@@ -213,9 +213,9 @@ Jessi: Initial, I think we were confused how to approach it, but once we got the
 Josh: The game design document helped me understand the style of the game which made it easier for me to find assets.
 
 Evan: Using the game design document, I was able to look at all the features and elements that were required of our game, and individually piece together ideas for a full game experience following a common theme that was provided to start with. Using that theme, I was able to expand upon it with the game requirements in mind, like with my plan for the level design being 5 vital organs of the body. With the level design visualized in my head, I was then able to research the level modeling tools that UE5 has to offer, which is when I discovered the CubeGrid modeling tool. I knew I wanted to use it for this game immediately because of its ease of use and accessibility to me. 
-</details>
 
 Matthew: We approached the initial analysis by having 2 people on the team come forward with their differnet ideas of what it was asking for and everyone built upon them by adding or changing the way they were interpreted.
+<details/>
 
 <details>
 <summary>Module Five Project Log - Team Reflection</summary>
